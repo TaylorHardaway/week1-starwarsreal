@@ -1,1 +1,1 @@
-console.log(CONNECTED);
+console.log("Taylor's Star Wars Page");
